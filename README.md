@@ -65,7 +65,7 @@
         plt.close()
     ```
 5. 可视化生成结果如example_output文件夹中的所示
-![example_output](example_output\generated_samples_mnist9.png)
+![example_output](.\example_output\generated_samples_mnist9.png)
 6. 训练过程中的参考现象如下
    1. 在i7-7700K CPU上训练，每个epoch训练时间约3-4分钟
    2. 第一个epoch的平均损失在0.12左右，3epoch后的平均损失在0.04附近
